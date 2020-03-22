@@ -7,7 +7,7 @@ main(){
   var division = (int a, int b) => a / b;
  
   print("add: ${add(4, 19)}");
-  print("subtractionnus: ${subtraction(9,13)}");
+  print("subtraction: ${subtraction(9,13)}");
   print("multiplication: ${multiplication(9,13)}");
   print("division: ${division(9,13)}");
 
